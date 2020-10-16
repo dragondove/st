@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "FuraCode Nerd Font:style=Retina:pixelsize=20:antialias=true:autohint=true";
+static char *font = "FuraCode Nerd Font:style=Regular:pixelsize=20:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
